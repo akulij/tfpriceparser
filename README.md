@@ -1,10 +1,10 @@
 # Team Fortress 2 popular marketplaces skin price parser
 
 
-## Installation
-
-### Requirements
+## Requirements
 You should already have Python installed
+
+## Installation
 
 ### Windows
 Execute install.bat (double-click on file)
