@@ -1,2 +1,6 @@
+# ignore python files
 __pycache__/
 env/
+
+# ignore script output file
+latest.csv
