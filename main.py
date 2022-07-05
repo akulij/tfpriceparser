@@ -127,7 +127,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if not (args.k and args.r):
-        print("type", sys.argv[0], "--help", "for help message")
+        print("No arguments provided. Pass --help argument for help message")
         exit()
 
     main(float(args.k), float(args.r), args.cache)
