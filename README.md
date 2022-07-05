@@ -1,4 +1,4 @@
-# Team Fortress 2 marketplaces skin price parser
+# Team Fortress 2 popular marketplaces skin price parser
 
 
 ## Installation
