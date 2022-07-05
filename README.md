@@ -10,32 +10,32 @@ You should already have Python installed
 Execute install.bat (double-click on file)
 ### Linux/MacOS
 Execute install.sh
-    ```
-    sh install.sh
-    ```
+```sh
+sh install.sh
+```
 
 
 ## Run
 
 ### Windows
 Execute run.bat (open cmd.exe in project folder)
-    ```
-    ./run.bat -k <key price> -r <refined price>
-    ```
+```bat
+./run.bat -k <key price> -r <refined price>
+```
 ### Linux/MacOS
 Execute run.sh
-    ```
-    sh run.sh -k <key price> -r <refined price>
-    ```
+```sh
+sh run.sh -k <key price> -r <refined price>
+```
 
 
 ## Help menu
 
 ### Windows
-    ```
-    ./run.bat --help
-    ```
+```bat
+./run.bat --help
+```
 ### Linux/MacOS
-    ```
-    sh run.sh --help
-    ```
+```sh
+sh run.sh --help
+```
