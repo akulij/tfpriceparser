@@ -3,12 +3,12 @@
 
 ## Installation
 
-###Requirements
+### Requirements
 You should already have Python installed
 
-###Windows
+### Windows
 Execute install.bat (double-click on file)
-###Linux/MacOS
+### Linux/MacOS
 Execute install.sh
     ```
     sh install.sh
@@ -17,12 +17,12 @@ Execute install.sh
 
 ## Run
 
-###Windows
+### Windows
 Execute run.bat (open cmd.exe in project folder)
     ```
     ./run.bat -k <key price> -r <refined price>
     ```
-###Linux/MacOS
+### Linux/MacOS
 Execute run.sh
     ```
     sh run.sh -k <key price> -r <refined price>
